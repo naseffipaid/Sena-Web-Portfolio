@@ -119,7 +119,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <li className="social-icons-linkedin">
                  <Tooltip text="LinkedIn" placement="top">
                   <a
-                    href="https://www.linkedin.com/in/your-profile/"
+                    href="https://www.linkedin.com/in/sena-firdissa-31278a204/"
                     target="_blank"
                     rel="noopener noreferrer"
                    >
