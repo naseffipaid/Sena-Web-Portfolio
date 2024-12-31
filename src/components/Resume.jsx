@@ -44,7 +44,7 @@ const Resume = ({ classicHeader, darkTheme }) => {
     },
     {
       yearRange: "2011 - 2016",
-      title: "Site Engineer",
+      title: "Site Engineer/Material Engineer",
       place: "FATS Construction Enterprise",
       desc: "Worked with teams to ensure material quality and availability. Applied problem-solving to enhance project efficiency and address supply challenges.",
     },
