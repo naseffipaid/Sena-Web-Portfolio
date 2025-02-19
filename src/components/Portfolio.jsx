@@ -11,6 +11,31 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 
   const projectsData = [
     {
+      title: "Abe Gerage",
+      projectInfo: "A comprehensive garage management system that enables users to manage garage operations efficiently while allowing customers to track their vehicle repair status online. The platform emphasizes seamless user experience and real-time updates.",
+      client: "Personal Project",
+      technologies: "React, Node.js, Express, MySQL, CSS3, JavaScript, Bootstrap, JSON Web Token, Amazon Web Services",
+      industry: "Automotive Services",
+      date: "February 19, 2025",
+      url: {
+        name: "https://abegerages.uk/",
+        link: "https://abegerages.uk/"
+      },
+      socialLinks: {
+        facebook: "http://www.facebook.com/",
+        twitter: "http://www.twitter.com/",
+        google: "http://www.google.com/",
+        instagram: "http://www.instagram.com/",
+        mail: "mailto:example@gmail.com"
+      },
+      thumbImage: "images/projects/abegerage.png", // Use a relevant thumbnail
+      sliderImages: [
+        "images/projects/abegerage.png",
+        "images/projects/abegerage-slider.png"
+      ],
+      categories: ["All"]
+    },
+    {
       title: "Evangadi Forum",
   projectInfo: 
        "An engaging platform where users interact by posting questions and providing answers, fostering collaborative problem-solving and knowledge sharing. It features robust user authentication, organized discussion threads, and a seamless responsive design.",
